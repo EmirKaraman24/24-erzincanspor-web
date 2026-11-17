@@ -31,7 +31,7 @@
 ## 📂 Proje Yapısı
 
 ```text
-Web-Proje/
+24-erzincanspor-web/
 ├── admin/                  # Yönetim paneli sayfaları
 │   ├── index.html
 │   ├── haberler.html
@@ -59,8 +59,8 @@ Web-Proje/
 Herhangi bir derleme aracı gerektirmez. Projeyi klonlayıp `index.html` dosyasını doğrudan tarayıcıda veya yerel bir HTTP sunucusuyla açabilirsiniz:
 
 ```bash
-git clone https://github.com/EmirKaraman24/Web-Proje.git
-cd Web-Proje
+git clone https://github.com/EmirKaraman24/24-erzincanspor-web.git
+cd 24-erzincanspor-web
 npx serve .
 ```
 
